@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Kingisline.github.io/portfolio/",
+  "homepage": ".",
   "name": "starter",
   "private": true,
   "version": "0.0.0",
@@ -29,5 +29,17 @@
     "eslint-plugin-react-refresh": "0.4.3",
     "gh-pages": "^6.3.0",
     "vite": "4.4.5"
+  },
+  "description": "React and vite combo, just a parallax site",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kingisline/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kingisline/portfolio/issues"
   }
 }
