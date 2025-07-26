@@ -74,7 +74,7 @@ const Hero = () => {
         Writer Content Creator Influencer
       </motion.div>
       <div className="imageContainer">
-        <img src={import.meta.env.BASE_URL +"/kakashi.png"} alt="" />
+        <img src={import.meta.env.BASE_URL +"./kakashi.png"} alt="" />
       </div>
     </div>
   );
