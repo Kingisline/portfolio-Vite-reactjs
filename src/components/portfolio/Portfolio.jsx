@@ -20,7 +20,7 @@ const items = [
   {
     id: 3,
     title: "Ad Blocker with Raspberry Pi",
-    img: "https://private-user-images.githubusercontent.com/98681319/403225063-80ee2fe1-539a-4d84-b76f-dace0c826808.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM0OTU1ODUsIm5iZiI6MTc1MzQ5NTI4NSwicGF0aCI6Ii85ODY4MTMxOS80MDMyMjUwNjMtODBlZTJmZTEtNTM5YS00ZDg0LWI3NmYtZGFjZTBjODI2ODA4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI2VDAyMDEyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyODJlMTZkMGMwMmZkNGMzNzU4NjA1MzFkYzY2M2U0NDNlNjViNzMwMWQ5YTYxODAyOTA3ZjgzNTNhNDgyNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.p9lr-b4zOxokJ8r5iGsBPTOh-DCPGyBOdw1qwOXaFS8",
+    img: "https://imgs.search.brave.com/MFVaiqtZ8MVmGSaDhugYKDGJU0pnpc3Tc8yby5Tyfoc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/bGVhcm4uYWRhZnJ1/aXQuY29tL2Fzc2V0/cy9hc3NldHMvMDAw/LzA0NS8zMzgvbWVk/aXVtODAwL3Jhc3Bi/ZXJyeV9waV9waWhv/bGUuZ2lmPzE1MDI4/NTQ1ODY.gif",
     desc: "	A network-wide ad-blocking solution using Pi-hole on Raspberry Pi connected to home Wi-Fi.",
     button: "https://github.com/Kingisline/-Raspberry-Pi-Zero-W-Alblocker",
   },
